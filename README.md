@@ -1,2 +1,2 @@
 # RocketBoost
-Unity rocket game prototype
+Unity rocket game prototype. Work in progress.
